@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/xcountriesCrio/static/css/main.af19dda2.css",
+    "main.js": "/xcountriesCrio/static/js/main.c4026298.js",
+    "index.html": "/xcountriesCrio/index.html",
+    "main.af19dda2.css.map": "/xcountriesCrio/static/css/main.af19dda2.css.map",
+    "main.c4026298.js.map": "/xcountriesCrio/static/js/main.c4026298.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af19dda2.css",
+    "static/js/main.c4026298.js"
+  ]
+}
