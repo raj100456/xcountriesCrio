@@ -1,0 +1,59 @@
+
+.headerstyle {
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .input {
+    width: 40%;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: azure;
+  }
+  
+   .img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    } 
+  
+.Main__container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding-top: 60px;
+    padding-bottom: 20px;
+   
+   }
+
+   .Country-card{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+   }
+   .img{
+    width: 100px;
+    height: 100px;
+   }
+
+   .text {
+    margin-top: auto;
+    text-align: center;
+    padding: 5px;
+    font-family: "poppins",sans-serif;
+    font-weight: 400;
+   }
